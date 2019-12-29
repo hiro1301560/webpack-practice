@@ -1,5 +1,6 @@
 import _ from 'lodash'
 import './style.css';
+import './style.scss';
 import logo from './e-town0010-s1024_town0010_11-480x302.jpg'
 
 function component() {
